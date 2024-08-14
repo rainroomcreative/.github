@@ -1,5 +1,5 @@
 **Ticket Name:**  
-[EXMPL Project Name]
+EXMPL Project Name
 
 **Preview URL:**  
 Preview URL
