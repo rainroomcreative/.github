@@ -1,5 +1,5 @@
 **Ticket URL:**  
-EXMPL 'https://rain-room-creative-marketing.monday.com/boards/4124021728/pulses/7252004898' **MUST INCLUDE TICKET ID AFTER /pulses**
+EXMPL 'https://app.clickup.com/t/868cunb1q' **MUST INCLUDE TICKET ID AFTER **
 
 **Preview URL:**  
 Preview URL
