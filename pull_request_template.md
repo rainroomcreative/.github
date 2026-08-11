@@ -28,7 +28,5 @@ What the ticket is supposed to do (1-2 sentences minimum)
 - [ ] No  
 
 > [!IMPORTANT]
-> *If Yes: Slack Jordan Hennessy for approval if no other devs immediately available.*  
+> *If Yes: Slack August for approval if no other devs immediately available.*  
 > *If no response within 5 minutes, push it regardless.*
-
-- [ ] I have requested a code review from Jordan Hennessy (jehennessy) in the PR 
